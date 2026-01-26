@@ -1,6 +1,24 @@
 payload:
   # Unreal Engine games
   - PROCESS-NAME-REGEX,(?i).*Win64-Shipping.*
+    # Steam (Сам магазин и процессы)
+  - PROCESS-NAME,steam.exe
+  - PROCESS-NAME,steamwebhelper.exe
+  - PROCESS-NAME,steamservice.exe
+
+  # Epic Games Store
+  - PROCESS-NAME,EpicGamesLauncher.exe
+  - PROCESS-NAME,EpicWebHelper.exe
+
+  # Ubisoft Connect (Uplay)
+  - PROCESS-NAME,upc.exe
+  - PROCESS-NAME,UplayWebCore.exe
+  # Roblox
+  - PROCESS-NAME,RobloxPlayerBeta.exe
+  - PROCESS-NAME,RobloxPlayerLauncher.exe
+  # GOG Galaxy
+  - PROCESS-NAME,GalaxyClient.exe
+  - PROCESS-NAME,GalaxyClientService.exe
 
   # Aimbeast
   - PROCESS-NAME-REGEX,Aimbeast.* 
@@ -24,6 +42,16 @@ payload:
   # Euro Truck Simulator 2 / American Trucks Simulator
   - PROCESS-NAME,eurotrucks2.exe
   - PROCESS-NAME,amtrucks.exe
+
+  # Lague legends
+  - PROCESS-NAME,LeagueClient.exe
+  - PROCESS-NAME,LeagueClientUx.exe
+  - PROCESS-NAME,League of Legends.exe
+  - PROCESS-NAME,RiotClientServices.exe
+
+  # Fortnite
+  - PROCESS-NAME,FortniteClient-Win64-Shipping.exe
+  - PROCESS-NAME,FortniteLauncher.exe
 
   # Party Animals
   - PROCESS-NAME,PartyAnimals.exe
