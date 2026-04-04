@@ -207,3 +207,674 @@ payload:
 
   # --- Добавленно вручную ---
   - PROCESS-NAME,Raft.exe
+
+  # --- Популярные игры в СНГ/РФ ---
+  # Standoff 2 (эмуляторы/версии для ПК)
+  - PROCESS-NAME,standoff2.exe
+  # War Thunder
+  - PROCESS-NAME,WarThunder.exe
+  - PROCESS-NAME,aces.exe
+  # World of Tanks / World of Warships / World of Planes
+  - PROCESS-NAME,WorldOfTanks.exe
+  - PROCESS-NAME,WorldOfTanksShips.exe
+  - PROCESS-NAME,WorldOfWarships.exe
+  - PROCESS-NAME,WorldOfPlanes.exe
+  - PROCESS-NAME,WoTBlitz.exe
+  # Crossout
+  - PROCESS-NAME,Crossout.exe
+  # Enlisted
+  - PROCESS-NAME,Enlisted.exe
+  # Escape from Tarkov (дополнительно)
+  - PROCESS-NAME,EftLauncher.exe
+  # S.T.A.L.K.E.R. 2: Heart of Chornobyl
+  - PROCESS-NAME,Stalker2.exe
+  # Atomic Heart
+  - PROCESS-NAME,AtomicHeart.exe
+  # Cataclysm: Dark Days Ahead / Project Zomboid
+  - PROCESS-NAME,ProjectZomboid.exe
+  - PROCESS-NAME,ProjectZomboid64.exe
+  # Palworld
+  - PROCESS-NAME,Palworld-Win64-Shipping.exe
+  # Sons Of The Forest
+  - PROCESS-NAME,SonsOfTheForest.exe
+  # Lethal Company
+  - PROCESS-NAME,LethalCompany.exe
+  # Phasmophobia
+  - PROCESS-NAME,Phasmophobia.exe
+  - PROCESS-NAME,Phasmophobia_BE.exe
+  # Terraria
+  - PROCESS-NAME,Terraria.exe
+  # Stardew Valley
+  - PROCESS-NAME,StardewValley.exe
+  # Don't Starve Together
+  - PROCESS-NAME,dontstarve_steam.exe
+  # Left 4 Dead 2
+  - PROCESS-NAME,left4dead2.exe
+  # Garry's Mod
+  - PROCESS-NAME,hl2.exe
+  - PROCESS-NAME,gmod.exe
+  # ARK: Survival Evolved / Ascended
+  - PROCESS-NAME,ArkAscended-Win64-Shipping.exe
+  - PROCESS-NAME,ShooterGame.exe
+  # DayZ
+  - PROCESS-NAME,DayZ.exe
+  - PROCESS-NAME,DayZ_x64.exe
+  # SCUM
+  - PROCESS-NAME,SCUM.exe
+  # 7 Days to Die
+  - PROCESS-NAME,7DaysToDie.exe
+  - PROCESS-NAME,7DaysToDieServer.exe
+  # Valheim
+  - PROCESS-NAME,valheim.exe
+  - PROCESS-NAME,valheim_server.exe
+  # Grounded
+  - PROCESS-NAME,Grounded.exe
+  # The Forest
+  - PROCESS-NAME,TheForest.exe
+  # Green Hell
+  - PROCESS-NAME,GreenHell.exe
+  # V Rising
+  - PROCESS-NAME,VRising.exe
+  # Core Keeper
+  - PROCESS-NAME,CoreKeeper.exe
+  # Deep Rock Galactic
+  - PROCESS-NAME,FSD-Win64-Shipping.exe
+  # Risk of Rain 2
+  - PROCESS-NAME,RiskofRain2.exe
+  # Sea of Thieves
+  - PROCESS-NAME,SeaOfThieves.exe
+  # State of Decay 2
+  - PROCESS-NAME,StateOfDecay2.exe
+  # Dead by Daylight
+  - PROCESS-NAME,DeadByDaylight.exe
+  - PROCESS-NAME,DeadByDaylight_BE.exe
+  # Friday the 13th: The Game
+  - PROCESS-NAME,FridayThe13th.exe
+  # Payday 2 / Payday 3
+  - PROCESS-NAME,payday2_win32_release.exe
+  - PROCESS-NAME,payday3.exe
+  # Borderlands 3
+  - PROCESS-NAME,Borderlands3.exe
+  # Destiny 2
+  - PROCESS-NAME,destiny2.exe
+  - PROCESS-NAME,destiny2_BE.exe
+  # The Division 2
+  - PROCESS-NAME,Division2.exe
+  # Ghost Recon Breakpoint / Wildlands
+  - PROCESS-NAME,GRB.exe
+  - PROCESS-NAME,Wildlands.exe
+  # Far Cry 6 / Far Cry 5
+  - PROCESS-NAME,FarCry6.exe
+  - PROCESS-NAME,FarCry5.exe
+  # Assassin's Creed Valhalla / Odyssey
+  - PROCESS-NAME,ACValhalla.exe
+  - PROCESS-NAME,ACOdyssey.exe
+  # Watch Dogs: Legion
+  - PROCESS-NAME,WatchDogsLegion.exe
+  # Immortals Fenyx Rising
+  - PROCESS-NAME,ImmortalsFenyxRising.exe
+  # Rainbow Six Extraction
+  - PROCESS-NAME,RainbowSixExtraction.exe
+  # XDefiant
+  - PROCESS-NAME,XDefiant.exe
+  # The Crew Motorfest
+  - PROCESS-NAME,TheCrewMotorfest.exe
+  # Trackmania
+  - PROCESS-NAME,Trackmania.exe
+  # Anno 1800
+  - PROCESS-NAME,Anno1800.exe
+  # Cities: Skylines II
+  - PROCESS-NAME,Cities2.exe
+  # Europa Universalis IV / Hearts of Iron IV / Stellaris
+  - PROCESS-NAME,eu4.exe
+  - PROCESS-NAME,hoi4.exe
+  - PROCESS-NAME,stellaris.exe
+  # Civilization VI
+  - PROCESS-NAME,CivilizationVI.exe
+  - PROCESS-NAME,CivilizationVI_Base.exe
+  # Age of Empires IV
+  - PROCESS-NAME,AoE4_s.exe
+  # Company of Heroes 3
+  - PROCESS-NAME,CompanyOfHeroes3.exe
+  # Total War: Warhammer III
+  - PROCESS-NAME,Warhammer3.exe
+  # Homeworld 3
+  - PROCESS-NAME,Homeworld3.exe
+  # StarCraft: Remastered
+  - PROCESS-NAME,StarCraft.exe
+  # Warcraft III: Reforged
+  - PROCESS-NAME,Warcraft III.exe
+  # Diablo II: Resurrected
+  - PROCESS-NAME,D2R.exe
+  # Diablo III
+  - PROCESS-NAME,DiabloIII64.exe
+  # Diablo Immortal
+  - PROCESS-NAME,DiabloImmortal.exe
+  # Lost Ark
+  - PROCESS-NAME,LostArk.exe
+  - PROCESS-NAME,LostArkClient.exe
+  # Throne and Liberty
+  - PROCESS-NAME,ThroneAndLiberty.exe
+  # Albion Online
+  - PROCESS-NAME,AlbionOnline.exe
+  # Black Desert
+  - PROCESS-NAME,BlackDesert64.exe
+  # New World
+  - PROCESS-NAME,NewWorld.exe
+  - PROCESS-NAME,NewWorldBeta.exe
+  # Guild Wars 2
+  - PROCESS-NAME,Gw2.exe
+  - PROCESS-NAME,Gw2-64.exe
+  # Final Fantasy XIV
+  - PROCESS-NAME,ffxiv_dx11.exe
+  - PROCESS-NAME,ffxiv.exe
+  # Elder Scrolls Online
+  - PROCESS-NAME,eso.exe
+  # Fallout 76
+  - PROCESS-NAME,Fallout76.exe
+  # Starfield
+  - PROCESS-NAME,Starfield.exe
+  # Indiana Jones and the Great Circle
+  - PROCESS-NAME,IndianaJones.exe
+  # S.T.A.L.K.E.R.: Call of Pripyat / Shadow of Chernobyl
+  - PROCESS-NAME,xrEngine.exe
+  - PROCESS-NAME,xr_3da.exe
+  # Metro Exodus / Metro Last Light
+  - PROCESS-NAME,MetroExodus.exe
+  - PROCESS-NAME,MetroLastLight.exe
+  # King Come Kingdoms Deliverance
+  - PROCESS-NAME,KingdomCome.exe
+  # Mount & Blade II: Bannerlord
+  - PROCESS-NAME,Bannerlord.exe
+  - PROCESS-NAME,Bannerlord.Native.exe
+  # Medieval Dynasty
+  - PROCESS-NAME,MedievalDynasty.exe
+  # Manor Lords
+  - PROCESS-NAME,ManorLords.exe
+  # Frostpunk 2
+  - PROCESS-NAME,Frostpunk2.exe
+  # Frostpunk
+  - PROCESS-NAME,Frostpunk.exe
+  # This War of Mine
+  - PROCESS-NAME,ThisWarOfMine.exe
+  # Disco Elysium
+  - PROCESS-NAME,DiscoElysium.exe
+  # Baldur's Gate 3 (дополнительно)
+  - PROCESS-NAME,bg3_vulkan.exe
+  # Divinity: Original Sin 2
+  - PROCESS-NAME,DivinityOriginalSin2.exe
+  # Pathfinder: Wrath of the Righteous
+  - PROCESS-NAME,Wrath.exe
+  # Wasteland 3
+  - PROCESS-NAME,Wasteland3.exe
+  # ATOM RPG
+  - PROCESS-NAME,ATOM.exe
+  # INSOMNIA: The Ark
+  - PROCESS-NAME,Insomnia.exe
+  # Ex Machina
+  - PROCESS-NAME,ExMachina.exe
+  # Hard Truck: Apocalypse
+  - PROCESS-NAME,Apocalypse.exe
+  # Knights of Honor II: Sovereign
+  - PROCESS-NAME,KoH2.exe
+  # Crusader Kings III
+  - PROCESS-NAME,ck3.exe
+  # Victoria 3
+  - PROCESS-NAME,victoria3.exe
+  # Hearts of Iron IV (дополнительно)
+  - PROCESS-NAME,hoi4_win64.exe
+  # Iron Harvest
+  - PROCESS-NAME,IronHarvest.exe
+  # Broken Arrow
+  - PROCESS-NAME,BrokenArrow.exe
+  # Graviteam Tactics: Mius-Front
+  - PROCESS-NAME,MiusFront.exe
+  # Steel Division 2
+  - PROCESS-NAME,SteelDivision2.exe
+  # Company of Heroes 2
+  - PROCESS-NAME,CompanyOfHeroes2.exe
+  # Men of War: Assault Squad 2
+  - PROCESS-NAME,MenOfWarAS2.exe
+  # Call to Arms
+  - PROCESS-NAME,CallToArms.exe
+  # Post Scriptum / Squad 44
+  - PROCESS-NAME,PostScriptum.exe
+  - PROCESS-NAME,Squad44.exe
+  # Hell Let Loose
+  - PROCESS-NAME,HellLetLoose.exe
+  # BattleBit Remastered (дополнительно)
+  - PROCESS-NAME,BattleBit.exe
+  # Isonzo
+  - PROCESS-NAME,Isonzo.exe
+  # Verdun
+  - PROCESS-NAME,Verdun.exe
+  # Tannenberg
+  - PROCESS-NAME,Tannenberg.exe
+  # Ready or Not
+  - PROCESS-NAME,ReadyOrNot.exe
+  # SWAT 4
+  - PROCESS-NAME,Swat4.exe
+  # Zero Hour
+  - PROCESS-NAME,ZeroHour.exe
+  # Insurgency: Sandstorm
+  - PROCESS-NAME,Insurgency-Win64-Shipping.exe
+  # Squad
+  - PROCESS-NAME,SquadGame.exe
+  - PROCESS-NAME,SquadGameServer.exe
+  # Arma 3
+  - PROCESS-NAME,arma3.exe
+  - PROCESS-NAME,arma3_x64.exe
+  # Arma Reforger
+  - PROCESS-NAME,Reforger.exe
+  # DayZ (дополнительно)
+  - PROCESS-NAME,DayZDiag_x64.exe
+  # Microsoft Flight Simulator
+  - PROCESS-NAME,FlightSimulator.exe
+  # Assetto Corsa Competizione
+  - PROCESS-NAME,acc.exe
+  # iRacing
+  - PROCESS-NAME,iRacing.exe
+  # BeamNG.drive
+  - PROCESS-NAME,BeamNG.drive.x64.exe
+  # SnowRunner
+  - PROCESS-NAME,SnowRunner.exe
+  # MudRunner
+  - PROCESS-NAME,MudRunner.exe
+  # Spintires
+  - PROCESS-NAME,Spintires.exe
+  # CarX Drift Racing Online
+  - PROCESS-NAME,CarXDriftRacingOnline.exe
+  # Need for Speed Unbound
+  - PROCESS-NAME,NFSUnbound.exe
+  # Forza Horizon 4
+  - PROCESS-NAME,ForzaHorizon4.exe
+  # Assetto Corsa
+  - PROCESS-NAME,assettocorsa.exe
+  # Project CARS 3
+  - PROCESS-NAME,ProjectCARS3.exe
+  # DiRT Rally 2.0
+  - PROCESS-NAME,DirtRally2.exe
+  # WRC Generations
+  - PROCESS-NAME,WRCGenerations.exe
+  # MotoGP 24
+  - PROCESS-NAME,MotoGP24.exe
+  # F1 24
+  - PROCESS-NAME,F1_24.exe
+  # EA Sports FC 25 / FC 24
+  - PROCESS-NAME,FC25.exe
+  - PROCESS-NAME,FC24.exe
+  # eFootball 2025
+  - PROCESS-NAME,eFootball2025.exe
+  # NHL 25
+  - PROCESS-NAME,NHL25.exe
+  # NBA 2K25
+  - PROCESS-NAME,NBA2K25.exe
+  # UFC 5
+  - PROCESS-NAME,UFC5.exe
+  # WWE 2K24
+  - PROCESS-NAME,WWE2K24.exe
+  # AEW Fight Forever
+  - PROCESS-NAME,AEWFightForever.exe
+  # Tony Hawk's Pro Skater 1 + 2
+  - PROCESS-NAME,THPS12.exe
+  # Skate Story
+  - PROCESS-NAME,SkateStory.exe
+  # OlliOlli World
+  - PROCESS-NAME,OlliOlliWorld.exe
+  # Rocket League
+  - PROCESS-NAME,RocketLeague.exe
+  - PROCESS-NAME,BakkesMod.exe
+  # Fall Guys
+  - PROCESS-NAME,FallGuys.exe
+  # Stumble Guys
+  - PROCESS-NAME,StumbleGuys.exe
+  # Brawlhalla
+  - PROCESS-NAME,Brawlhalla.exe
+  # MultiVersus
+  - PROCESS-NAME,Multiversus.exe
+  # Nickelodeon All-Star Brawl 2
+  - PROCESS-NAME,NickelodeonAllStarBrawl2.exe
+  # Rumbleverse
+  - PROCESS-NAME,Rumbleverse.exe
+  # Hyper Scape
+  - PROCESS-NAME,HyperScape.exe
+  # Naraka: Bladepoint
+  - PROCESS-NAME,NarakaBladepoint.exe
+  # Eternal Return
+  - PROCESS-NAME,EternalReturn.exe
+  # Bloodhunt
+  - PROCESS-NAME,Bloodhunt.exe
+  # Vampire: The Masquerade - Bloodhunt
+  - PROCESS-NAME,VBloodhunt.exe
+  # Witch It
+  - PROCESS-NAME,WitchIt.exe
+  # Hide and Shriek
+  - PROCESS-NAME,HideAndShriek.exe
+  # Propnight
+  - PROCESS-NAME,Propnight.exe
+  # Deceit
+  - PROCESS-NAME,Deceit.exe
+  # Project Winter
+  - PROCESS-NAME,ProjectWinter.exe
+  # The Outlast Trials
+  - PROCESS-NAME,OutlastTrials.exe
+  # Still Wakes the Deep
+  - PROCESS-NAME,StillWakesTheDeep.exe
+  # The Dark Pictures Anthology
+  - PROCESS-NAME,DarkPictures.exe
+  # Until Dawn
+  - PROCESS-NAME,UntilDawn.exe
+  # Detroit: Become Human
+  - PROCESS-NAME,DetroitBecomeHuman.exe
+  # Heavy Rain
+  - PROCESS-NAME,HeavyRain.exe
+  # Beyond: Two Souls
+  - PROCESS-NAME,BeyondTwoSouls.exe
+  # Life is Strange
+  - PROCESS-NAME,LifeIsStrange.exe
+  # Tellers Tales
+  - PROCESS-NAME,TellersTales.exe
+  # As Dusk Falls
+  - PROCESS-NAME,AsDuskFalls.exe
+  # Twelve Minutes
+  - PROCESS-NAME,TwelveMinutes.exe
+  # Her Story
+  - PROCESS-NAME,HerStory.exe
+  # Telling Lies
+  - PROCESS-NAME,TellingLies.exe
+  # Immortality
+  - PROCESS-NAME,Immortality.exe
+  # The Case of the Golden Idol
+  - PROCESS-NAME,GoldenIdol.exe
+  # Return of the Obra Dinn
+  - PROCESS-NAME,ObraDinn.exe
+  # Outer Wilds
+  - PROCESS-NAME,OuterWilds.exe
+  # No Man's Sky
+  - PROCESS-NAME,NoMansSky.exe
+  # Subnautica
+  - PROCESS-NAME,Subnautica.exe
+  # Subnautica: Below Zero
+  - PROCESS-NAME,SubnauticaBelowZero.exe
+  # Stranded Deep
+  - PROCESS-NAME,StrandedDeep.exe
+  # The Long Dark
+  - PROCESS-NAME,TheLongDark.exe
+  # Green Hell (дополнительно)
+  - PROCESS-NAME,GreenHell_Server.exe
+  # Sons Of The Forest (дополнительно)
+  - PROCESS-NAME,SonsOfTheForest_Server.exe
+  # I Am Alive
+  - PROCESS-NAME,IAmAlive.exe
+  # State of Emergency
+  - PROCESS-NAME,StateOfEmergency.exe
+  # Prototype
+  - PROCESS-NAME,prototype.exe
+  - PROCESS-NAME,prototype2.exe
+  # Infamous
+  - PROCESS-NAME,Infamous.exe
+  # Crackdown 3
+  - PROCESS-NAME,Crackdown3.exe
+  # Just Cause 4
+  - PROCESS-NAME,JustCause4.exe
+  # Saints Row (2022)
+  - PROCESS-NAME,SaintsRow.exe
+  # Mafia: Definitive Edition
+  - PROCESS-NAME,Mafia.exe
+  # Mafia II: Definitive Edition
+  - PROCESS-NAME,Mafia2.exe
+  # Mafia III
+  - PROCESS-NAME,Mafia3.exe
+  # L.A. Noire
+  - PROCESS-NAME,LANoire.exe
+  # Sleeping Dogs: Definitive Edition
+  - PROCESS-NAME,SleepingDogs.exe
+  # Hitman 3 / World of Assassination
+  - PROCESS-NAME,Hitman3.exe
+  # Splinter Cell
+  - PROCESS-NAME,SplinterCell.exe
+  # Metal Gear Solid V
+  - PROCESS-NAME,MGSV.exe
+  # Death Stranding
+  - PROCESS-NAME,DeathStranding.exe
+  # Control
+  - PROCESS-NAME,Control.exe
+  # Alan Wake 2
+  - PROCESS-NAME,AlanWake2.exe
+  # Alan Wake Remastered
+  - PROCESS-NAME,AlanWake.exe
+  # Quantum Break
+  - PROCESS-NAME,QuantumBreak.exe
+  # Remedy Entertainment games
+  - PROCESS-NAME,MaxPayne.exe
+  # Prey
+  - PROCESS-NAME,Prey.exe
+  # Dishonored 2
+  - PROCESS-NAME,Dishonored2.exe
+  # Wolfenstein II: The New Colossus
+  - PROCESS-NAME,WolfensteinII.exe
+  # Doom Eternal
+  - PROCESS-NAME,DOOMEternal.exe
+  # Quake Champions
+  - PROCESS-NAME,QuakeChampions.exe
+  # Titanfall 2
+  - PROCESS-NAME,titanfall2.exe
+  # Jedi: Survivor / Fallen Order
+  - PROCESS-NAME,JediSurvivor.exe
+  - PROCESS-NAME,JediFallenOrder.exe
+  # Star Wars Battlefront II
+  - PROCESS-NAME,starwarsbattlefrontii.exe
+  # Star Wars: Squadrons
+  - PROCESS-NAME,StarWarsSquadrons.exe
+  # Mass Effect Legendary Edition
+  - PROCESS-NAME,MassEffect.exe
+  # Dragon Age: Inquisition
+  - PROCESS-NAME,DragonAgeInquisition.exe
+  # Anthem
+  - PROCESS-NAME,Anthem.exe
+  # Mirror's Edge Catalyst
+  - PROCESS-NAME,MirrorsEdgeCatalyst.exe
+  # Plants vs Zombies: Battle for Neighborville
+  - PROCESS-NAME,PvZBattleforNeighborville.exe
+  # It Takes Two
+  - PROCESS-NAME,ItTakesTwo.exe
+  # A Way Out
+  - PROCESS-NAME,AWayOut.exe
+  # Unravel 2
+  - PROCESS-NAME,Unravel2.exe
+  # Little Nightmares II
+  - PROCESS-NAME,LittleNightmares2.exe
+  # Inside
+  - PROCESS-NAME,Inside.exe
+  # Limbo
+  - PROCESS-NAME,Limbo.exe
+  # Gris
+  - PROCESS-NAME,Gris.exe
+  # Celeste
+  - PROCESS-NAME,Celeste.exe
+  # Hollow Knight
+  - PROCESS-NAME,HollowKnight.exe
+  # Silksong
+  - PROCESS-NAME,Silksong.exe
+  # Ori and the Will of the Wisps
+  - PROCESS-NAME,OriandtheWilloftheWisps.exe
+  # Cuphead
+  - PROCESS-NAME,Cuphead.exe
+  # Hades II
+  - PROCESS-NAME,Hades2.exe
+  # Hades
+  - PROCESS-NAME,Hades.exe
+  # Bastion
+  - PROCESS-NAME,Bastion.exe
+  # Transistor
+  - PROCESS-NAME,Transistor.exe
+  # Pyre
+  - PROCESS-NAME,Pyre.exe
+  # Supergiant games
+  - PROCESS-NAME,Supergiant.exe
+  # Darkest Dungeon II
+  - PROCESS-NAME,DarkestDungeon2.exe
+  # Darkest Dungeon
+  - PROCESS-NAME,DarkestDungeon.exe
+  # Slay the Spire
+  - PROCESS-NAME,SlayTheSpire.exe
+  # Monster Train
+  - PROCESS-NAME,MonsterTrain.exe
+  # Inscryption
+  - PROCESS-NAME,Inscryption.exe
+  # Balatro
+  - PROCESS-NAME,Balatro.exe
+  # Vampire Survivors
+  - PROCESS-NAME,VampireSurvivors.exe
+  # Brotato
+  - PROCESS-NAME,Brotato.exe
+  # Binding of Isaac: Rebirth
+  - PROCESS-NAME,isaac-ng.exe
+  # Enter the Gungeon
+  - PROCESS-NAME,EnterTheGungeon.exe
+  # Risk of Rain Returns
+  - PROCESS-NAME,RiskOfRainReturns.exe
+  # Noita
+  - PROCESS-NAME,noita.exe
+  # Teardown
+  - PROCESS-NAME,teardown.exe
+  # People Playground
+  - PROCESS-NAME,PeoplePlayground.exe
+  # Ultimate Custom Night
+  - PROCESS-NAME,UltimateCustomNight.exe
+  # Five Nights at Freddy's
+  - PROCESS-NAME,fnaf.exe
+  # Poppy Playtime
+  - PROCESS-NAME,PoppyPlaytime.exe
+  # Bendy and the Ink Machine
+  - PROCESS-NAME,BendyAndTheInkMachine.exe
+  # Granny
+  - PROCESS-NAME,Granny.exe
+  # Ice Scream
+  - PROCESS-NAME,IceScream.exe
+  # Evil Nun
+  - PROCESS-NAME,EvilNun.exe
+  # Roblox
+  - PROCESS-NAME,RobloxPlayerBeta.exe
+  # Minecraft Dungeons
+  - PROCESS-NAME,MinecraftDungeons.exe
+  # Minecraft Legends
+  - PROCESS-NAME,MinecraftLegends.exe
+  # Lego Fortnite
+  - PROCESS-NAME,LegoFortnite.exe
+  # Disney Dreamlight Valley
+  - PROCESS-NAME,DisneyDreamlightValley.exe
+  # My Time at Portia / Sandrock
+  - PROCESS-NAME,MyTimeAtPortia.exe
+  - PROCESS-NAME,MyTimeAtSandrock.exe
+  # Spiritfarer
+  - PROCESS-NAME,Spiritfarer.exe
+  # Coffee Talk
+  - PROCESS-NAME,CoffeeTalk.exe
+  # VA-11 Hall-A
+  - PROCESS-NAME,VA11HallA.exe
+  # Night in the Woods
+  - PROCESS-NAME,NightInTheWoods.exe
+  # Firewatch
+  - PROCESS-NAME,Firewatch.exe
+  # What Remains of Edith Finch
+  - PROCESS-NAME,EdithFinch.exe
+  # Gone Home
+  - PROCESS-NAME,GoneHome.exe
+  # The Stanley Parable
+  - PROCESS-NAME,StanleyParable.exe
+  # Portal 2
+  - PROCESS-NAME,portal2.exe
+  # Half-Life: Alyx
+  - PROCESS-NAME,hlvr.exe
+  # Black Mesa
+  - PROCESS-NAME,BlackMesa.exe
+  # Titanfall
+  - PROCESS-NAME,titanfall.exe
+  # Apex Legends (дополнительно)
+  - PROCESS-NAME,r5apex.exe
+  # Call of Duty: Modern Warfare III / Warzone
+  - PROCESS-NAME,ModernWarfare.exe
+  - PROCESS-NAME,Cod.exe
+  # Call of Duty: Black Ops 6
+  - PROCESS-NAME,BlackOps6.exe
+  # Call of Duty: MW2 / MW2019
+  - PROCESS-NAME,MW2.exe
+  # Warzone 2.0
+  - PROCESS-NAME,Warzone.exe
+  # Battlefield 2042
+  - PROCESS-NAME,BF2042.exe
+  # Battlefield V
+  - PROCESS-NAME,BFV.exe
+  # Battlefield 1
+  - PROCESS-NAME,BF1.exe
+  # Battlefield 4
+  - PROCESS-NAME,BF4.exe
+  # Battlefield 2042 (дополнительно)
+  - PROCESS-NAME,BF2042_x64.exe
+  # Halo Infinite
+  - PROCESS-NAME,HaloInfinite.exe
+  # Gears 5
+  - PROCESS-NAME,Gears5.exe
+  # Forza Motorsport
+  - PROCESS-NAME,ForzaMotorsport.exe
+  # Age of Empires II: DE
+  - PROCESS-NAME,AoE2DE_s.exe
+  # Age of Empires III: DE
+  - PROCESS-NAME,AoE3DE_s.exe
+  # Age of Empires IV (дополнительно)
+  - PROCESS-NAME,AgeOfEmpires4.exe
+  # State of Decay 2 (дополнительно)
+  - PROCESS-NAME,StateOfDecay2_x64.exe
+  # Grounded (дополнительно)
+  - PROCESS-NAME,Grounded_x64.exe
+  # Pentiment
+  - PROCESS-NAME,Pentiment.exe
+  # Psychonauts 2
+  - PROCESS-NAME,Psychonauts2.exe
+  # Hi-Fi Rush
+  - PROCESS-NAME,HiFiRush.exe
+  # Redfall
+  - PROCESS-NAME,Redfall.exe
+  # Starfield (дополнительно)
+  - PROCESS-NAME,Starfield_x64.exe
+  # Indiana Jones (дополнительно)
+  - PROCESS-NAME,IndianaJones_x64.exe
+  # Perfect Dark
+  - PROCESS-NAME,PerfectDark.exe
+  # Everwild
+  - PROCESS-NAME,Everwild.exe
+  # Avowed
+  - PROCESS-NAME,Avowed.exe
+  # Clockwork Revolution
+  - PROCESS-NAME,ClockworkRevolution.exe
+  # Contraband
+  - PROCESS-NAME,Contraband.exe
+  # Fable
+  - PROCESS-NAME,Fable.exe
+  # Forza
+  - PROCESS-NAME,Forza.exe
+  # State of Decay 3
+  - PROCESS-NAME,StateOfDecay3.exe
+  # Senua's Saga: Hellblade II
+  - PROCESS-NAME,Hellblade2.exe
+  # Microsoft Flight Simulator 2024
+  - PROCESS-NAME,FlightSimulator2024.exe
+  # Mech Warrior 5
+  - PROCESS-NAME,MechWarrior5.exe
+  # Phoenix Point
+  - PROCESS-NAME,PhoenixPoint.exe
+  # Wasteland 3 (дополнительно)
+  - PROCESS-NAME,Wasteland3_x64.exe
+  # Gears Tactics
+  - PROCESS-NAME,GearsTactics.exe
+  # Bleeding Edge
+  - PROCESS-NAME,BleedingEdge.exe
+  # Battletoads
+  - PROCESS-NAME,Battletoads.exe
+  # Ori and the Blind Forest
+  - PROCESS-NAME,OriandtheBlindForest.exe
+  # Cuphead (дополнительно)
+  - PROCESS-NAME,Cuphead_x64.exe
+  # Grounded (еще дополнительно)
+  - PROCESS-NAME,GroundedShipping.exe
