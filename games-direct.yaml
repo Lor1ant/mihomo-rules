@@ -23,6 +23,7 @@ payload:
   - PROCESS-NAME,vgc.exe
   - PROCESS-NAME,vgm.exe
   - PROCESS-NAME-REGEX,(?i).*vanguard.*
+  - PROCESS-NAME,REPO.exe
 
   # DENUVO Anti-Cheat
   - PROCESS-NAME,denuvo-anti-cheat-update-service.exe
